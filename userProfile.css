@@ -1,0 +1,11 @@
+.profile-container {
+  margin: 10px;
+  padding: 10px;
+  border: solid 1px black;
+  font-family: sans-serif;
+}
+
+.profile-container input {
+  display: block;
+  margin: 5px;
+}
